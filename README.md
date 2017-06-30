@@ -1,23 +1,22 @@
-# This is a large heading
-## This is a smaller heading
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poetƒs pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-- This is
-- an unordered
-- list
-1. This is
-2. an ordered
-3. list
-Here is `some code` in the middle of a sentence.
-```
-This is
-a block
-of code
-```
-Here is how you make [a link](https://www.wikiped\
-ia.org/).
-![This is an image.](https://github.com/yihui/xar\
-ingan/releases/download/v0.0.2/karl-moustache.jpg\
-)
+# Yating Cheng
+
+### Geography
+
+I live in the College Station, TX, USA
+
+
+### READING 
+
+Anything
+
+
+### Food
+
+1. Spicy food
+2. Fruit
+
+
+
+### Contact 
+
+email
